@@ -1,0 +1,48 @@
+/* .mainHeader {
+  margin-left: 200px;
+} */
+
+.navMenu {
+  background-color: #cc0066;
+  display: inline;
+}
+
+.top-bar {
+  background: #cc0066;
+  color: #fff;
+  font-size: 0.9rem;
+  padding: 0 0;
+}
+
+.top-bar .contact-info {
+  margin-right: 20px;
+}
+
+.top-bar ul {
+  margin-bottom: 0;
+}
+
+.top-bar .contact-info a {
+  font-size: 0.8rem;
+}
+
+.top-bar ul.social-custom {
+  margin-left: 20px;
+}
+.top-bar ul {
+  margin-bottom: 0;
+}
+
+.top-bar a.login-btn i,
+.top-bar a.signup-btn i {
+  margin-right: 10px;
+}
+
+.navItemLinks {
+  color: #e1ffff; 
+  letter-spacing: 0.1em;
+  font-family: verdana;
+  font-size: 15px;
+  font-weight: 200;
+  margin-right: 10px;
+}
